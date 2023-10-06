@@ -6,8 +6,6 @@
 
 📚 I'm an undergraduate computer engineering student at the University of Toronto
 
-👨‍💻 I have a strong interest in full stack development & web security reverse engineering 
-
 🌱 Currently learning: Go, Verilog 
 
 🌟 Main languages: Python, JavaScript/Typescript, C++
