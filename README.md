@@ -6,9 +6,7 @@
 
 📚 I'm an undergraduate computer engineering student at the University of Toronto
 
-🌱 Currently learning: Go, Verilog 
-
-🌟 Main languages: Python, JavaScript/Typescript, C++
+🌟 Main languages: Python, Go, C++, JavaScript/Typescript
 
 
   
