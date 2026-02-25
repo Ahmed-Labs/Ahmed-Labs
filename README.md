@@ -6,6 +6,6 @@
 
 📚 I'm an undergraduate computer engineering student at the University of Toronto
 
-🌟 Main languages: Python, Go, C++, JavaScript/Typescript
+🌟 Main languages: Python & Go
 
 [![wakatime](https://wakatime.com/badge/user/a4c96e12-aca2-4c2e-84dc-02c0616547df.svg)](https://wakatime.com/@a4c96e12-aca2-4c2e-84dc-02c0616547df)
